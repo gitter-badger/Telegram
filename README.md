@@ -1,5 +1,7 @@
 ## Telegram messenger for Android
 
+[![Join the chat at https://gitter.im/JGeovani/Telegram](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JGeovani/Telegram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Telegram](http://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
 
